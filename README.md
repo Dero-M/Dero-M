@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dero-M
+- 👋 Hi, I’m @OrkhanZeynalov
 - 👀 I’m interested in Web design and Front end
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
